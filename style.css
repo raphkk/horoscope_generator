@@ -1,0 +1,14 @@
+#background{
+ background: linear-gradient(360deg, rgb(236,213,187), rgb(255, 255,255), rgb(236,213,187));
+}
+
+css
+body {
+  font-family: Arial, sans-serif;
+ margin: auto;
+}
+
+.lol{
+  margin-top: 10px;
+  
+}
