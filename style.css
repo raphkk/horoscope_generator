@@ -12,3 +12,38 @@ body {
   margin-top: 10px;
   
 }
+
+
+h1 {
+  text-align: center;
+  color: brown;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  margin-top: 10%;
+  border-radius: 20px;
+}
+
+form {
+  color: #C38370;
+  text-align: center;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  margin-top: 1%;
+}
+
+#horoscope-result {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  border-style: solid;
+  width: 50%;
+  height: 50%;
+  border-style: solid;
+  padding: 30px;
+  margin: auto;
+  margin-top: 1%;
+  border-radius: 20px;
+}
