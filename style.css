@@ -47,3 +47,16 @@ form {
   margin-top: 1%;
   border-radius: 20px;
 }
+
+
+.button1{
+  border-radius: 20px;
+  padding: 10px 10px;
+  color: brown;
+}
+
+.button2{
+  border-radius: 20px;
+  padding: 10px 10px;
+  color: brown;
+}
