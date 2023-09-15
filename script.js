@@ -14,3 +14,10 @@ const horoscopeReadings = {
   pisces: "Your energy might turn toward beautifying your home, Pisces. Perhaps you've decided to repaint or go in a completely new direction in your decorating taste. Posters or other souvenirs of foreign lands might also be especially appealing now. Expect someone to drop by and bring some interesting news that might get your mind going a thousand miles an hour.",
   // Add more horoscope readings for other signs
 };
+
+
+function generateHoroscope() {
+  const signSelect = document.getElementById("sign-select");
+  const selectedSign = signSelect.value;
+  
+}
