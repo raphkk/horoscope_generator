@@ -20,4 +20,7 @@ function generateHoroscope() {
   const signSelect = document.getElementById("sign-select");
   const selectedSign = signSelect.value;
   
+
+  const horoscopeResult = document.getElementById("horoscope-result");
+  horoscopeResult.innerText = horoscopeReadings[selectedSign];
 }
